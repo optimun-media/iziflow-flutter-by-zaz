@@ -139,4 +139,4 @@ cd example && flutter run
 
 ## Licence
 
-Propriétaire — IziFlow © Achaire ZOGO.
+MIT — IziFlow © Achaire ZOGO.

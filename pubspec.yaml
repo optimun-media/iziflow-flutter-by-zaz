@@ -1,6 +1,6 @@
 name: iziflow_flutter
 description: "Embedded IziFlow checkout for Flutter apps — hosted card payment page with 3-D Secure, card vault support and result callbacks, all inside the app without external navigation."
-version: 0.0.1
+version: 0.1.0
 homepage: https://checkout.iziflow.ca
 repository: https://github.com/optimun-media/iziflow-flutter-by-zaz
 
